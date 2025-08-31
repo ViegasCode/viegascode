@@ -15,6 +15,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🌟 Destaques
 - 💡 Criação de aplicações para gestão de incidentes e pagamentos em larga escala.  
 - 🔄 Projetos de **migração cloud** com zero downtime.  
