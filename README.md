@@ -1,10 +1,10 @@
-# 👨‍💻 Viegas Code  
+# 👨‍💻 Douglas Guerreiro
 
-🌐 Desenvolvedor apaixonado por **automação, dados e inteligência artificial**, criando soluções que unem **eficiência e inovação**.  
-🚀 +6 anos de experiência com **Python**, liderança de times e desenvolvimento de produtos de alto impacto.  
-☁️ Experiência sólida em **Cloud Computing** (AWS, GCP, UOL Cloud, Azure) e **migrações complexas** entre provedores.  
-📊 Especialista em **APIs, Data Sharing, automação de processos, mensageria (Kafka & RabbitMQ)** e integração de sistemas críticos.  
-🎯 Foco em criar aplicações escaláveis que **resolvem problemas reais**.  
+🌐 Developer passionate about **automation, data, and artificial intelligence**, building solutions that combine **efficiency and innovation**.  
+🚀 6+ years of experience with **Python**, team leadership, and the development of high-impact products.  
+☁️ Solid background in **Cloud Computing** (AWS, GCP, UOL Cloud, Azure) and **complex migrations** across providers.  
+📊 Specialist in **APIs, Data Sharing, process automation, messaging systems (Kafka & RabbitMQ)**, and critical systems integration.  
+🎯 Focused on creating scalable applications that **solve real-world problems**.  
 
 ---
 
@@ -15,31 +15,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true)
-
-</div>
+## 🌟 Highlights
+- 💡 Built applications for large-scale **incident management and payment systems**.  
+- 🔄 Led **cloud migration projects** with zero downtime.  
+- 🤖 Developed intelligent bots for **game automation and Discord**.  
 
 ---
 
-## 🌟 Destaques
-- 💡 Criação de aplicações para gestão de incidentes e pagamentos em larga escala.  
-- 🔄 Projetos de **migração cloud** com zero downtime.  
-- 🤖 Desenvolvimento de bots inteligentes para automação em jogos e Discord.  
-
----
-
-📫 **Contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://seuportfolio.com)  
+📫 **Contact:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
 ⭐️ “**Code is art, automation is power.**”
