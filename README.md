@@ -1,4 +1,4 @@
-# 👨‍💻 Douglas Guerreiro
+# 👨‍💻 Douglas Guerreiro - Senior Software Engineer & AI Specialist
 
 🌐 Developer passionate about **automation, data, and artificial intelligence**, building solutions that combine **efficiency and innovation**.  
 🚀 6+ years of experience with **Python**, team leadership, and the development of high-impact products.  
@@ -12,6 +12,7 @@
 - **Languages:** Python, JavaScript, Java, SQL  
 - **Frameworks & Tools:** Django, FastAPI, Flask, React, Docker, Ansible, GitLab-CI/CD  
 - **Cloud & Data:** BigQuery, Kafka, RabbitMQ, GCP, AWS, Azure, UOL Cloud  
+- **Artificial Intelligence:** OpenAI API, LLMs, RAG, Prompt Engineering, AI Automation
 
 ---
 
@@ -28,4 +29,4 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
-⭐️ “**Code is art, automation is power.**”
+⭐️ “**Talk is cheap, show me the code.**”
